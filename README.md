@@ -19,5 +19,5 @@
 </ul>
 
 <h2> Installing </h2>
-<p> Run pip -r requirements.txt first and after that python install_pyclamav.py for installing python-pyclamav module to be able to use Scan Files Module on Blackpearl </p>
+<p> Run pip -r requirements.txt first and after that python install_pyclamav.py for installing python-pyclamav module to be able to use Scan Files Module on Blackpearl (Codex)</p>
 
